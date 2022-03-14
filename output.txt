@@ -1,0 +1,290 @@
+******************************************************************
+                            output
+******************************************************************
+************************
+Application starts:
+Welcome to Employee Management Systsem:
+Please choose one of the below option:
+1 - Show all the employee records
+2 - Add employee
+3 - Remove employee
+4 - get employee details
+5 - update employee details
+-1 - Exit application
+**********************************
+1
+************No records************
+
+
+************************
+Application starts:
+Welcome to Employee Management Systsem:
+Please choose one of the below option:
+1 - Show all the employee records
+2 - Add employee
+3 - Remove employee
+4 - get employee details
+5 - update employee details
+-1 - Exit application
+**********************************
+2
+
+Name: abhilash
+
+Department: analyst
+
+Salary: 23000 
+
+************successfully added one record ************
+
+************************
+Application starts:
+Welcome to Employee Management Systsem:
+Please choose one of the below option:
+1 - Show all the employee records
+2 - Add employee
+3 - Remove employee
+4 - get employee details
+5 - update employee details
+-1 - Exit application
+**********************************
+2
+
+Name: rishi
+
+Department: trainer
+
+Salary: 55000
+
+************successfully added one record ************
+
+************************
+Application starts:
+Welcome to Employee Management Systsem:
+Please choose one of the below option:
+1 - Show all the employee records
+2 - Add employee
+3 - Remove employee
+4 - get employee details
+5 - update employee details
+-1 - Exit application
+**********************************
+2
+
+Name: karthik
+
+Department: associate
+
+Salary: 34000
+
+************successfully added one record ************
+
+************************
+Application starts:
+Welcome to Employee Management Systsem:
+Please choose one of the below option:
+1 - Show all the employee records
+2 - Add employee
+3 - Remove employee
+4 - get employee details
+5 - update employee details
+-1 - Exit application
+**********************************
+4
+************please enter option 1 to retrieve complete employee details************
+************************
+Application starts:
+Welcome to Employee Management Systsem:
+Please choose one of the below option:
+1 - Show all the employee records
+2 - Add employee
+3 - Remove employee
+4 - get employee details
+5 - update employee details
+-1 - Exit application
+**********************************
+2
+
+Name: pavan
+
+Department: analyst
+
+Salary: 23000
+
+************successfully added one record ************
+
+************************
+Application starts:
+Welcome to Employee Management Systsem:
+Please choose one of the below option:
+1 - Show all the employee records
+2 - Add employee
+3 - Remove employee
+4 - get employee details
+5 - update employee details
+-1 - Exit application
+**********************************
+1
+---------------------------------------------------------------------------
+employeeName             department              Salary
+---------------------------------------------------------------------------
+|abhilash                       analyst                 23000.0
+|rishi                  trainer                 55000.0
+|karthik                        associate                       34000.0
+|pavan                  analyst                 23000.0
+************************
+Application starts:
+Welcome to Employee Management Systsem:
+Please choose one of the below option:
+1 - Show all the employee records
+2 - Add employee
+3 - Remove employee
+4 - get employee details
+5 - update employee details
+-1 - Exit application
+**********************************
+5
+Enter old employee name and department and salary to update record :
+
+
+Name: karthik
+
+Department: associate
+
+Salary: 34000
+
+Enter new Employee Name: yash
+
+Enter new Employee Department: associate
+
+Enter new Employee Salary: 32333
+
+************successfully updated one record ************
+
+
+************************
+Application starts:
+Welcome to Employee Management Systsem:
+Please choose one of the below option:
+1 - Show all the employee records
+2 - Add employee
+3 - Remove employee
+4 - get employee details
+5 - update employee details
+-1 - Exit application
+**********************************
+1
+---------------------------------------------------------------------------
+employeeName             department              Salary
+---------------------------------------------------------------------------
+|abhilash                       analyst                 23000.0
+|rishi                  trainer                 55000.0
+|yash                   associate                       32333.0
+|pavan                  analyst                 23000.0
+************************
+Application starts:
+Welcome to Employee Management Systsem:
+Please choose one of the below option:
+1 - Show all the employee records
+2 - Add employee
+3 - Remove employee
+4 - get employee details
+5 - update employee details
+-1 - Exit application
+**********************************
+3
+Enter employee name and department and salary to delete record :
+
+
+Name: yash
+
+Department: assosiate
+
+Salary: 32333.0
+************there is no such record in employee table :************
+************************
+Application starts:
+Welcome to Employee Management Systsem:
+Please choose one of the below option:
+1 - Show all the employee records
+2 - Add employee
+3 - Remove employee
+4 - get employee details
+5 - update employee details
+-1 - Exit application
+**********************************
+3
+Enter employee name and department and salary to delete record :
+
+
+Name: yash
+
+Department: associate
+
+Salary: 32333
+
+************successfully deleted one record ************
+
+************************
+Application starts:
+Welcome to Employee Management Systsem:
+Please choose one of the below option:
+1 - Show all the employee records
+2 - Add employee
+3 - Remove employee
+4 - get employee details
+5 - update employee details
+-1 - Exit application
+**********************************
+1
+---------------------------------------------------------------------------
+employeeName             department              Salary
+---------------------------------------------------------------------------
+|abhilash                       analyst                 23000.0
+|rishi                  trainer                 55000.0
+|pavan                  analyst                 23000.0
+************************
+Application starts:
+Welcome to Employee Management Systsem:
+Please choose one of the below option:
+1 - Show all the employee records
+2 - Add employee
+3 - Remove employee
+4 - get employee details
+5 - update employee details
+-1 - Exit application
+**********************************
+5
+Enter old employee name and department and salary to update record :
+
+
+Name: asdds
+
+Department: ffdcas
+
+Salary: 32111
+
+Enter new Employee Name: varun
+
+Enter new Employee Department: kitads
+
+Enter new Employee Salary: 123423423
+
+************there is no such record in employee table :************
+************************
+Application starts:
+Welcome to Employee Management Systsem:
+Please choose one of the below option:
+1 - Show all the employee records
+2 - Add employee
+3 - Remove employee
+4 - get employee details
+5 - update employee details
+-1 - Exit application
+**********************************
+-1
+exit the console
+
+******************************************************************************************************
+
+
